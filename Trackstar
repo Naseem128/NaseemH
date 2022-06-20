@@ -1,2 +1,341 @@
 Naseem  
 Golden Spikes
+This is a collaboration environment
+
+hey welcome Wassup bro
+
+
+not much the top left 2 folders is the explorer button shows the files your currently in
+
+there are 3 extensions you download but beffore that click this button with a small 
+
+magnifying glass and 2 rectangles together in the top right
+okay clicked it
+
+what happened?
+I see preview nice the language we are using now is 
+
+### MarkDown ###
+
+--- 
+
+its for making notes for projects, typing blogs, and other cool stuff
+
+Okay got it so the preview is just showing everything without the codes?
+
+the preview shows you how it looks in the browser some markdown code is like 
+
+3 - together 
+
+or # space  then words and # for a heading
+
+# heading 1 #
+## heading 2 ##
+
+Oh I understand now thats cool i'm excited to learn all this 
+
+awsome you will also need to learn the terminal below
+
+ok where it says (base) ? user@
+yeah everything in the computer is either a file or a folder
+
+
+---
+
+in the terminal we are in my Portfolio_2022 Folder in __User__ folder
+
+
+the folder tree goes like this 
+
+Root -> user -> desktop -> (music|document|other folders on desktop)
+
+
+
+Okay I think I understand a little bit lets do a little python we will change to my new folder
+
+nvm you have to download some extensions you see the 3 cubes in a L shape
+
+Yeah I see 
+
+cool click it and search these extensions 
+
+* python (microsoft)
+
+* github repositories
+
+* live share (microsoft)
+
+okay downloading now okay cool lets practice some mark down
+
+make a heading just like mine just diffrent words
+
+### Cool Heading ### 
+
+### Track ###
+
+
+
+💪🏽
+
+now thats heading 1 the biggest font lets change ours to heading 2 or 3
+
+okay did it nice 
+
+you need the same amount of #'s on each side to have that heading ( Got it)
+
+to make bullited list do this
+
+* Spikes
+* arm sleeves
+
+* Headband
+
+cool now with python to make a comment you use
+
+# 
+ but you use it in python files 
+
+#
+Naseem 
+
+got it 
+
+you see the new photo i added
+
+where at?
+
+click the explorer button
+
+I dont see the explorer button
+
+thats cool the explorer button is the 2 files icon on top of each other
+
+I see
+
+on the left at the top
+
+it shows you the files open in VSCode and files in the current project
+
+Okay i see im on the picture
+
+nice thats kinda what i mean by the tree 
+
+oh okay I understand that now what you were saying
+
+yeah so the terminal that says user below
+
+we are in the user folder and instead of keith folder its Portfolio_2022
+
+okay okay so the Users 
+
+yeah if you open the terminal when we done you will start in the user folder
+
+if you open the terminal while in a project you will start in that project Folder
+
+Okay I got it
+
+cool there are 2 most common commands for the terminal 
+
+* cd 
+* mkdir
+
+cd is _Change Directory_
+
+mkdir is make directory 
+
+O
+
+
+every folder is a directory
+
+oh so that is how you woudl change the folder? 
+
+yeah lets create a folder each
+
+ls command is list 
+* showing you whats inside of a current folder
+
+just created a new folder your turn 
+
+mkdir 
+
+so just anyname?
+
+yeah any name with a folder name you cant put spaces
+
+you got it mkdir derrick nice you have your explorer tab open?
+
+yessir
+
+you see our new folders 
+
+yeah 
+
+cool now check what files we have in Portfolio_2022
+
+using the ls command
+
+nice  now we have 2 folders to choose from within Portfolio change to either one of them
+
+# 🕺🏽 # 
+
+if you press the up arrow you can repeat commands you entered 
+
+check whats in the folder you moved too
+
+nice if you ever need to just copy the same one or make a slight change like this
+
+now move backwards up the folder tree
+
+
+using cd .
+
+you missed inner and lowercase folder
+nice
+
+we are in the User folder
+okay
+
+So how would we save everything
+
+so this is a new repository i created in github 
+
+and opened in vscode 
+
+to save this we would make a *_Commit_* 
+
+we can just save it with the save open under File and get back to it 
+
+or we can update it on Github with a commit
+
+
+okay got it
+
+create a repository in github after this and that bottom left button > < or the one next to it is for Github files
+
+its a lot we covered so we will leave it at this
+
+okay ill do it right now 
+
+I dont see it 
+
+try the cat icon to the left 
+
+i open github?
+
+yeah open github and create a new repository
+
+okay got it and name it anything? 
+
+yeah what ever comes to mind
+
+okay I created one
+
+nice named NassemH 
+Yes
+
+
+so  if you click the repository you should see a green button that says code
+
+I dont see it on github right 
+do you see quick setup
+
+yes
+
+do create new file
+
+yes so create a new file?
+
+
+yeah with anyname with the .md extension at the end of the name
+
+then just some randome text and commit changes at the very bottom
+
+okay 
+
+nice would you like to save this text ?
+
+Done!
+
+nice name choice too
+
+so if you click the repository you can see the green code button
+
+to upload it to your VSCODE you need to choose github cli also known as Github Command Line interace
+
+gh repo clone Naseem128/NaseemH this is the code you should see
+
+Okay I see it 
+
+so now I download?
+
+no this is when you copy that code and enter it into the terminal co
+
+nttrol C copy 
+control V pas
+
+where it says Read-only file
+
+yeah
+that means we can not make any edits to the file 
+
+we need to have it read-write
+
+okay
+
+is it good now?
+
+no but it could be if you try itt in your own VScode App
+
+so if you go to the repository and click the trackstar file 
+
+you should see raw | blame a pencil and down arrow
+
+okay i see it 
+
+click the down arrow and edit in github dev
+
+okay openednn
+
+okay add some text 
+
+Okay I did  next tap the 3 circles connecting each up 
+
+Enter a name like first commit and taap the check mark
+
+okay did it
+
+nice did you see the changes on your github?
+
+yeah
+
+# 🗣 Noice # 
+
+git hub is known as version control 
+
+like
+
+oh okay I think I understand that  naseemH v1 and naseemh v2 etc. you can move around changes for diffrent versions
+ 
+
+ it wont  click immedialtly atleast it didnt for me but with a few attempts to move between
+ versions it will. 
+
+ okay it changed
+
+ if you go to the front page of that repository (repositories are just projects)
+
+ it shows you made 4 commits 
+
+ yeah I see
+
+
+ okay got it so basically older versions and newer versions
+
+ Im going to head to bed in a bit, I appreciate you taking the time to help me learn all this. And will all this save right here?
+
+
+
+ okay I will right now
+
+ how would i copy it?
